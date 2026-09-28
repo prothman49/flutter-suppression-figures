@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="189mm"
+   height="106.4mm"
+   viewBox="0 0 189 106.4"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f750, 2025-12-25)"
+   sodipodi:docname="fig3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:figurefirst="http://flyranch.github.io/figurefirst/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1"
+     inkscape:cx="383.5"
+     inkscape:cy="191.5"
+     inkscape:window-width="1440"
+     inkscape:window-height="842"
+     inkscape:window-x="0"
+     inkscape:window-y="118"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2"
+     showguides="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2"
+       style="display:none">
+      <rect
+         id="rect1"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.138626;stroke-opacity:0.992308"
+         x="12.633359"
+         y="6.7300639"
+         width="31.366611"
+         height="30.549719">
+        <figurefirst:axis
+           figurefirst:name="3hz" />
+      </rect>
+      <rect
+         id="rect1-2"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.138626;stroke-opacity:0.992308"
+         sodipodi:nodetypes="ccccc"
+         x="48.670517"
+         y="6.7523842"
+         width="31.366619"
+         height="30.549719">
+        <figurefirst:axis
+           figurefirst:name="5.5hz" />
+      </rect>
+      <rect
+         id="rect1-5"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.138626;stroke-opacity:0.992308"
+         x="118.88917"
+         y="6.7961106"
+         width="31.366611"
+         height="30.549719">
+        <figurefirst:axis
+           figurefirst:name="8Hz" />
+      </rect>
+      <rect
+         id="rect1-2-0"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.138626;stroke-opacity:0.992308"
+         x="155.1048"
+         y="6.8184314"
+         width="31.366615"
+         height="30.549719">
+        <figurefirst:axis
+           figurefirst:name="10Hz" />
+      </rect>
+      <rect
+         id="rect1-2-3"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.138626;stroke-opacity:0.992308"
+         x="83.742935"
+         y="6.7596626"
+         width="31.366615"
+         height="30.549719">
+        <figurefirst:axis
+           figurefirst:name="CL" />
+      </rect>
+      <rect
+         id="rect1-1"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.216248;stroke-opacity:0.992308"
+         x="9.8560133"
+         y="51.940685"
+         width="49.277233"
+         height="47.320267">
+        <figurefirst:axis
+           figurefirst:name="Total_Power" />
+      </rect>
+      <rect
+         id="rect1-2-8"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.21567;stroke-opacity:0.992308"
+         x="69.78466"
+         y="51.974972"
+         width="49.01326"
+         height="47.320843">
+        <figurefirst:axis
+           figurefirst:name="Flutter_Power" />
+      </rect>
+      <rect
+         id="rect1-2-8-9"
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.236136;stroke-opacity:0.992308"
+         x="127.89864"
+         y="52.248425"
+         width="58.782372"
+         height="47.300377">
+        <figurefirst:axis
+           figurefirst:name="Flutter_Reduct" />
+      </rect>
+      <figurefirst:group
+         figurefirst:name="fig3" />
+    </g>
+  </g>
+</svg>

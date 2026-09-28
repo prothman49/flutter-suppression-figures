@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="190mm"
+   height="135mm"
+   viewBox="0 0 190 135"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f750, 2025-12-25)"
+   sodipodi:docname="fig5.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:figurefirst="http://flyranch.github.io/figurefirst/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2222732"
+     inkscape:cx="470.02585"
+     inkscape:cy="260.58004"
+     inkscape:window-width="1440"
+     inkscape:window-height="790"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g3"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3"
+       style="display:none"
+       transform="matrix(0.672385,0,0,0.66830191,-5.1029029,-3.5266592)"
+       inkscape:label="g3">
+      <rect
+         style="fill:#000000;fill-opacity:0;fill-rule:evenodd;stroke:#f95d00;stroke-width:0.30244;stroke-opacity:0.99230802"
+         id="rect1"
+         width="251.93399"
+         height="85.689575"
+         x="28.44647"
+         y="104.92745">
+        <figurefirst:axis
+           figurefirst:name="Off_Freq_Jitter" />
+      </rect>
+      <rect
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.232017;stroke-opacity:0.992308"
+         id="rect2"
+         width="55.246319"
+         height="58.542912"
+         x="28.449081"
+         y="19.273357"
+         inkscape:transform-center-x="3.5109475"
+         inkscape:transform-center-y="0.40609762">
+        <figurefirst:axis
+           figurefirst:name="Off_Freq_Jitter_3HZ" />
+      </rect>
+      <rect
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.232017;stroke-opacity:0.992308"
+         id="rect2-7"
+         width="55.246319"
+         height="58.542912"
+         x="96.698479"
+         y="19.205366">
+        <figurefirst:axis
+           figurefirst:name="Off_Freq_Jitter_55HZ" />
+      </rect>
+      <rect
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.232638;stroke-opacity:0.992308"
+         id="rect2-9"
+         width="55.542679"
+         height="58.542286"
+         x="162.41388"
+         y="19.203999">
+        <figurefirst:axis
+           figurefirst:name="Off_Freq_Jitter_8HZ" />
+      </rect>
+      <rect
+         style="fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.231396;stroke-opacity:0.992308"
+         id="rect2-7-2"
+         width="54.949944"
+         height="58.543537"
+         x="227.35951"
+         y="19.264744">
+        <figurefirst:axis
+           figurefirst:name="Off_Freq_Jitter_10HZ" />
+      </rect>
+      <figurefirst:group
+         figurefirst:name="fig5" />
+    </g>
+  </g>
+</svg>

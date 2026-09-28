@@ -1,0 +1,21 @@
+# Data and generated output
+data/*
+!data/README.md
+output/*
+!output/.gitkeep
+
+# Environments
+*_env/
+venv/
+.venv/
+env/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.vscode/

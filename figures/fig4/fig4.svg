@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="188mm"
+   height="140mm"
+   viewBox="0 0 188 140"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f750, 2025-12-25)"
+   sodipodi:docname="fig4.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:figurefirst="http://flyranch.github.io/figurefirst/">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.74920735"
+     inkscape:cx="543.90817"
+     inkscape:cy="279.62886"
+     inkscape:window-width="1440"
+     inkscape:window-height="788"
+     inkscape:window-x="0"
+     inkscape:window-y="118"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3"
+       style="display:inline"
+       sodipodi:insensitive="true">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.140123;stroke-opacity:0.992308"
+         id="rect1"
+         width="27.231028"
+         height="17.235437"
+         x="10.867749"
+         y="7.6882577">
+        <figurefirst:axis
+           figurefirst:name="icon_CL" />
+      </rect>
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.140123;stroke-opacity:0.992308"
+         id="rect1-2"
+         width="27.231028"
+         height="17.235437"
+         x="68.861404"
+         y="7.7761984">
+        <figurefirst:axis
+           figurefirst:name="icon_Poisson" />
+      </rect>
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.140123;stroke-opacity:0.992308"
+         id="rect1-7"
+         width="27.231028"
+         height="17.235437"
+         x="39.9095"
+         y="7.7476392">
+        <figurefirst:axis
+           figurefirst:name="icon_OL" />
+      </rect>
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.140123;stroke-opacity:0.992308"
+         id="rect1-0"
+         width="27.231028"
+         height="17.235437"
+         x="97.619164"
+         y="7.7034001">
+        <figurefirst:axis
+           figurefirst:name="icon_Jitter" />
+      </rect>
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.140123;stroke-opacity:0.992308"
+         id="rect1-2-5"
+         width="27.231028"
+         height="17.235437"
+         x="155.61267"
+         y="7.7913413">
+        <figurefirst:axis
+           figurefirst:name="icon_Replay" />
+      </rect>
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.140123;stroke-opacity:0.992308"
+         id="rect1-7-5"
+         width="27.231028"
+         height="17.235437"
+         x="126.66089"
+         y="7.7627821">
+        <figurefirst:axis
+           figurefirst:name="icon_Polarity" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.167381;stroke-opacity:0.992308"
+         id="rect1-25"
+         width="26.219761"
+         height="25.541677"
+         x="40.496265"
+         y="27.144461">
+        <figurefirst:axis
+           figurefirst:name="FFT_OL" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.167381;stroke-opacity:0.992308"
+         id="rect1-2-0"
+         width="26.219761"
+         height="25.541677"
+         x="69.419144"
+         y="27.274757">
+        <figurefirst:axis
+           figurefirst:name="FFT_Poisson" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.167381;stroke-opacity:0.992308"
+         id="rect1-7-7"
+         width="26.219761"
+         height="25.541677"
+         x="11.479542"
+         y="27.232443">
+        <figurefirst:axis
+           figurefirst:name="FFT_CL" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.167381;stroke-opacity:0.992308"
+         id="rect1-0-0"
+         width="26.219761"
+         height="25.541677"
+         x="98.61351"
+         y="27.166897">
+        <figurefirst:axis
+           figurefirst:name="FFT_Jitter" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.167381;stroke-opacity:0.992308"
+         id="rect1-2-5-7"
+         width="26.219761"
+         height="25.541677"
+         x="157.16736"
+         y="27.29719">
+        <figurefirst:axis
+           figurefirst:name="FFT_Replay" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.167381;stroke-opacity:0.992308"
+         id="rect1-7-5-6"
+         width="26.219761"
+         height="25.541677"
+         x="128.0994"
+         y="27.254877">
+        <figurefirst:axis
+           figurefirst:name="FFT_Polarity" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.127431;stroke-opacity:0.992308"
+         id="rect2"
+         width="179.55403"
+         height="7.0302787"
+         x="4.8578296"
+         y="67.696106">
+        <figurefirst:axis
+           figurefirst:name="Trial_order" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.211245;stroke-opacity:0.992308"
+         id="rect3"
+         width="49.316288"
+         height="44.19326"
+         x="10.606288"
+         y="87.747749">
+        <figurefirst:axis
+           figurefirst:name="total_power" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.211891;stroke-opacity:0.992308"
+         id="rect3-8"
+         width="49.618324"
+         height="44.193558"
+         x="69.132896"
+         y="87.95211">
+        <figurefirst:axis
+           figurefirst:name="flutter_power" />
+      </rect>
+      <rect
+         style="display:none;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:#000000;stroke-width:0.22279;stroke-opacity:0.992308"
+         id="rect3-80"
+         width="54.867687"
+         height="44.18235"
+         x="128.35036"
+         y="88.038872">
+        <figurefirst:axis
+           figurefirst:name="flutter_percent_reduc" />
+      </rect>
+      <figurefirst:group
+         figurefirst:name="fig4" />
+    </g>
+  </g>
+</svg>
