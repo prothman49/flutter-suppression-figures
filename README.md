@@ -33,7 +33,7 @@ Filled SVGs and PDFs go to `output/`.
 
 | Figure | Notebook | Data | Content |
 |---|---|---|---|
-| 1 | `figures/fig1/fig1.ipynb` | OL_RDM, time trace | Setup, real-time control trace, FFT, total power (closed loop) |
+| 1 | `figures/fig1/fig1.ipynb` | OL_RDM, time trace | Setup, Logic block diagram | real-time control trace, FFT, total power (closed loop) |
 | 2 | `figures/fig2/fig2.ipynb` | phase sweep | Reduction vs. phase offset, 0–330° |
 | 3 | `figures/fig3/fig3.ipynb` | OL_RDM, 3/8/10 Hz | Off-frequency open loop vs. frequency-tracked closed loop |
 | 4 | `figures/fig4/fig4.ipynb` | OL_RDM | Six-condition comparison: icons, FFTs, trial order, power |
