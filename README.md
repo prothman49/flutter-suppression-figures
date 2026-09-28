@@ -57,6 +57,7 @@ Each module also runs standalone to make its own diagnostic plots:
 | `flutter/condition_comparison.py` | `plot_CL_RDM.py` | Per-sample JSON reductions, CI box plots, stats |
 | `flutter/trial_order.py` | `plot_trial_order.py` | Trial order timeline from bag timestamps |
 | `flutter/condition_icons.py` | `condition_icons.py` | Condition waveform icons |
+| `flutter/time_trace.py` | `plot_time_trace_updated.py` | Real-time control trace (fig1 panel B) |
 
 ## Experimental conditions
 
