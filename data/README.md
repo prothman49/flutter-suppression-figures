@@ -1,6 +1,6 @@
 # Data
 
-Data is not stored in this repo. Download it from Zenodo (DOI TODO):
+Data is not stored in this repo. Download it from Datadryad.org:
 
     python scripts/download_data.py
 
