@@ -9,17 +9,28 @@ phase-locked piezoelectric actuation.
 
 ## Setup
 
+Requires Python 3.11.
+
     git clone https://github.com/prothman49/flutter-suppression-figures.git
     cd flutter-suppression-figures
-    conda env create -f environment.yml
-    conda activate flutter-figures
+    python3.11 -m venv venv
+    source venv/bin/activate
+    pip install -r requirements.txt
+    pip install -e .
     nbstripout --install    # strips notebook outputs on commit
 
 ## Data
 
-Data is hosted on Zenodo (DOI TODO). See [`data/README.md`](data/README.md).
+Data is on Dryad: https://doi.org/10.5061/dryad.1vhhmgrb6
 
-    python scripts/download_data.py
+The dataset is forthcoming. The DOI will resolve once the associated paper is published.
+
+Download the three `.tar.gz` files from the Dryad page and unpack them into `data/`:
+
+    mkdir -p data
+    for f in ~/Downloads/*.tar.gz; do tar -xzf "$f" -C data; done
+
+See [`data/README.md`](data/README.md) for the folder layout.
 
 ## Make figures
 
@@ -33,15 +44,15 @@ Filled SVGs and PDFs go to `output/`.
 
 | Figure | Notebook | Data | Content |
 |---|---|---|---|
-| 1 | `figures/fig1/fig1.ipynb` | OL_RDM, time trace | Setup, Logic block diagram, real-time control trace, FFT, total power (closed loop) |
+| 1 | `figures/fig1/fig1.ipynb` | OL_RDM, time trace | Setup, logic block diagram, real-time control trace, FFT, total power (closed loop) |
 | 2 | `figures/fig2/fig2.ipynb` | phase sweep | Reduction vs. phase offset, 0–330° |
 | 3 | `figures/fig3/fig3.ipynb` | OL_RDM, 3/8/10 Hz | Off-frequency open loop vs. frequency-tracked closed loop |
 | 4 | `figures/fig4/fig4.ipynb` | OL_RDM | Six-condition comparison: icons, FFTs, trial order, power |
-| 5 | `figures/fig5/fig5.ipynb` | jitter sweep, OL_RDM, 3/8/10 Hz | Uniform jitter frequency 
+| 5 | `figures/fig5/fig5.ipynb` | jitter sweep, OL_RDM, 3/8/10 Hz | Uniform jitter frequency sweep |
 
 ## Analysis code
 
-Shared code is in the `flutter` package (installed by the environment).
+Shared code is in the `flutter` package (installed by `pip install -e .`).
 Each module also runs standalone to make its own diagnostic plots:
 
     python -m flutter.fft_energy
@@ -75,14 +86,17 @@ Each module also runs standalone to make its own diagnostic plots:
     flutter/             analysis and plotting package
     figures/figN/        figure notebook + figurefirst SVG template
     notebooks/           exploratory notebooks (see notebooks/README.md)
-    scripts/             data download
-    data/                (not in git) downloaded data
+    data/                (not in git) unpacked data
     output/              (not in git) generated figures
 
 ## Citation
 
-TODO
+Paper: TODO
+
+Data: Rothman, P., et al. (2026). *Experimental data: optical-flow-based suppression of aeroelastic flutter with piezoelectric actuators.* Dryad. https://doi.org/10.5061/dryad.1vhhmgrb6
 
 ## License
 
-TODO: confirm with advisor (MIT is common for code; CC-BY for data).
+Code: TODO, confirm with advisor (MIT is common).
+
+Data: CC0, as required by Dryad.
